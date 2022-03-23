@@ -1,0 +1,1 @@
+echo `last | grep "^$1 " | wc -l`
